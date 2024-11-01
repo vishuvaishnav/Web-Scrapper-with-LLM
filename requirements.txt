@@ -1,0 +1,8 @@
+beautifulsoup4>=4.12.2
+html5lib>=1.1
+langchain>=0.0.300
+langchain_ollama>=0.0.1
+lxml>=4.9.3
+python-dotenv>=1.0.0
+selenium>=4.20.0
+streamlit>=1.21.0
