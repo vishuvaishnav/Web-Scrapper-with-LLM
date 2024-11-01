@@ -5,7 +5,7 @@ from scrape import (
     clean_body_content,
     split_dom_content,
 )
-from parse import parse_with_ollama
+from llm_parse import parse_with_ollama
 
 st.title("Web Scraper with LLM")
 url = st.text_input("Enter the URL")
