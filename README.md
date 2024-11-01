@@ -33,7 +33,7 @@ Setup
    - Create a `.env` file in the root directory.
    - Add your Chrome WebDriver URL:
      ```
-     SBR_WEBDRIVER=<your_chrome_webdriver_url>
+     SBR_WEBDRIVER=<your_chrome_webdriver_url> 
      ```
 
 4. Run the Streamlit app:
