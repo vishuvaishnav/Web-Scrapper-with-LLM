@@ -62,5 +62,4 @@ Setup
 - **More Parsing Models**: Support for additional AI models to provide more customization options.
 - **Additional Export Formats**: Enable results export to CSV or JSON for easier data handling.
 
-## Author
-**Vishu Vaishnav**
+[![Made by Vishu Vaishnav](https://img.shields.io/badge/Made%20by-Vishu%20Vaishnav-blue?style=flat-square)](https://github.com/vishuvaishnav)
